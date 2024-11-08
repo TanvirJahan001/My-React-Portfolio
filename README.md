@@ -47,7 +47,7 @@ Make sure you have **Node.js** and **npm** (or **yarn**) installed.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git remote add origin https://github.com/TanvirJahan001/My-React-Portfolio.git
    cd your-portfolio
    ```
 
